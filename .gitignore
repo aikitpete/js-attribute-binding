@@ -16,3 +16,13 @@ yarn-error.log*
 .idea/
 .vscode/
 *.iml
+.svn/
+target/
+*.bak
+*.class
+*.log
+nbproject/private/
+*.sdf
+*.ilk
+*.pdb
+*.suo
